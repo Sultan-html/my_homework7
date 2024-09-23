@@ -1,0 +1,55 @@
+2024-09-23 17:54:29,043 - INFO - \u0411\u041e\u0422 \u0417\u0410\u041f\u0423\u0429\u0415\u041d
+2024-09-23 17:54:29,225 - INFO - Start polling
+2024-09-23 17:54:29,443 - INFO - Run polling for bot @Michigan_Test_bot id=7303652506 - 'Michigan_bot'
+2024-09-23 17:54:55,974 - INFO - Update id=132161272 is handled. Duration 687 ms by bot id=7303652506
+2024-09-23 17:55:09,473 - INFO - Update id=132161273 is handled. Duration 234 ms by bot id=7303652506
+2024-09-23 17:55:29,623 - INFO - Polling stopped
+2024-09-23 17:55:29,629 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2706)
+2024-09-23 17:55:29,629 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7303652506)
+2024-09-23 17:55:29,881 - INFO - Polling stopped for bot @Michigan_Test_bot id=7303652506 - 'Michigan_bot'
+2024-09-23 17:55:45,209 - INFO - \u0411\u041e\u0422 \u0417\u0410\u041f\u0423\u0429\u0415\u041d
+2024-09-23 17:55:45,410 - INFO - Start polling
+2024-09-23 17:55:45,566 - INFO - Run polling for bot @Michigan_Test_bot id=7303652506 - 'Michigan_bot'
+2024-09-23 17:55:53,201 - INFO - Update id=132161274 is handled. Duration 858 ms by bot id=7303652506
+2024-09-23 17:56:08,824 - INFO - Update id=132161275 is handled. Duration 592 ms by bot id=7303652506
+2024-09-23 17:56:12,775 - INFO - Update id=132161276 is handled. Duration 234 ms by bot id=7303652506
+2024-09-23 17:56:15,109 - INFO - Update id=132161277 is handled. Duration 296 ms by bot id=7303652506
+2024-09-23 17:56:20,620 - INFO - Update id=132161279 is handled. Duration 250 ms by bot id=7303652506
+2024-09-23 17:56:20,871 - INFO - Update id=132161278 is handled. Duration 733 ms by bot id=7303652506
+2024-09-23 17:56:21,018 - INFO - Update id=132161280 is handled. Duration 657 ms by bot id=7303652506
+2024-09-23 17:56:40,105 - INFO - Update id=132161282 is handled. Duration 187 ms by bot id=7303652506
+2024-09-23 17:56:40,252 - INFO - Update id=132161281 is handled. Duration 500 ms by bot id=7303652506
+2024-09-23 17:56:44,816 - INFO - Update id=132161283 is handled. Duration 202 ms by bot id=7303652506
+2024-09-23 18:03:19,810 - INFO - Polling stopped
+2024-09-23 18:03:20,069 - INFO - Polling stopped for bot @Michigan_Test_bot id=7303652506 - 'Michigan_bot'
+2024-09-23 18:03:46,396 - INFO - Start polling
+2024-09-23 18:03:46,604 - INFO - Run polling for bot @Michigan_Test_bot id=7303652506 - 'Michigan_bot'
+2024-09-23 18:04:05,500 - INFO - Update id=132161284 is handled. Duration 733 ms by bot id=7303652506
+2024-09-23 18:04:10,221 - INFO - Update id=132161285 is handled. Duration 187 ms by bot id=7303652506
+2024-09-23 18:04:13,298 - INFO - Update id=132161286 is handled. Duration 500 ms by bot id=7303652506
+2024-09-23 18:04:14,256 - INFO - Update id=132161287 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:04:29,599 - INFO - Update id=132161288 is handled. Duration 625 ms by bot id=7303652506
+2024-09-23 18:04:31,048 - INFO - Update id=132161289 is handled. Duration 235 ms by bot id=7303652506
+2024-09-23 18:04:32,665 - INFO - Update id=132161290 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:04:38,392 - INFO - Update id=132161291 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:04:40,245 - INFO - Update id=132161292 is handled. Duration 358 ms by bot id=7303652506
+2024-09-23 18:04:42,091 - INFO - Update id=132161293 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:04:47,415 - INFO - Polling stopped
+2024-09-23 18:04:47,673 - INFO - Polling stopped for bot @Michigan_Test_bot id=7303652506 - 'Michigan_bot'
+2024-09-23 18:04:55,725 - INFO - Start polling
+2024-09-23 18:04:55,916 - INFO - Run polling for bot @Michigan_Test_bot id=7303652506 - 'Michigan_bot'
+2024-09-23 18:05:15,270 - INFO - Update id=132161294 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:05:18,639 - INFO - Update id=132161295 is handled. Duration 688 ms by bot id=7303652506
+2024-09-23 18:05:22,335 - INFO - Update id=132161296 is handled. Duration 296 ms by bot id=7303652506
+2024-09-23 18:05:26,550 - INFO - Update id=132161297 is handled. Duration 235 ms by bot id=7303652506
+2024-09-23 18:05:28,001 - INFO - Update id=132161298 is handled. Duration 250 ms by bot id=7303652506
+2024-09-23 18:05:32,879 - INFO - Update id=132161299 is handled. Duration 202 ms by bot id=7303652506
+2024-09-23 18:05:34,517 - INFO - Update id=132161300 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:05:37,671 - INFO - Update id=132161301 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:05:38,003 - INFO - Update id=132161302 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:05:38,184 - INFO - Update id=132161303 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:05:38,411 - INFO - Update id=132161304 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:05:38,873 - INFO - Update id=132161305 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:05:39,327 - INFO - Update id=132161306 is not handled. Duration 0 ms by bot id=7303652506
+2024-09-23 18:15:35,034 - INFO - Polling stopped
+2024-09-23 18:15:35,300 - INFO - Polling stopped for bot @Michigan_Test_bot id=7303652506 - 'Michigan_bot'
